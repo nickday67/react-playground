@@ -27,7 +27,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1><Accordion /></h1>
+        <h1><Accordion /></h1aw>
         <Accordion sections={sections} />
         {/* <p><Bomb /></p>
         <br />
